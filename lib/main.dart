@@ -21,11 +21,10 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Flutter Demo Home Page'),
+      home: MyHomePage(title: 'Url Launcher'),
     );
   }
 }
-
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);
 
@@ -91,26 +90,26 @@ class _MyHomePageState extends State<MyHomePage> {
               children: <Widget>[
                 RaisedButton(
                   onPressed: () {
-                    customLaunch('https://google.com');
+                    customLaunch('https://rwema.herokuapp.com/');
                   },
                   child: Text('URL'),
                 ),
                 RaisedButton(
                   onPressed: () {
                     customLaunch(
-                        'mailto:your@email.com?subject=test%20subject&body=test%20body');
+                        'mailto:rwemadominik3@gmail.com?subject=test%20subject&body=test%20body');
                   },
                   child: Text('Email'),
                 ),
                 RaisedButton(
                   onPressed: () {
-                    customLaunch('tel:+1 555 555 555');
+                    customLaunch('tel:+250 780 845 415');
                   },
                   child: Text('Phone'),
                 ),
                 RaisedButton(
                   onPressed: () {
-                    customLaunch('sms:5550101234');
+                    customLaunch('sms:0780845415');
                   },
                   child: Text('SMS'),
                 ),
