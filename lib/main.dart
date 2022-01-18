@@ -17,7 +17,6 @@ class MyApp extends StatelessWidget {
         // changing the primarySwatch below to Colors.green and then invoke
         // "hot reload" (press "r" in the console where you ran "flutter run",
         // or simply save your changes to-"hot reload" in a Flutter IDE).
-        // Notice that the counter didn't reset back to zero; the application
 
         primarySwatch: Colors.white12,
       ),
