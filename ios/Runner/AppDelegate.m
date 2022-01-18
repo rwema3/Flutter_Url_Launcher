@@ -6,7 +6,7 @@
 - (BOOL)application:(UIApplication *)application
     didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
   [GeneratedPluginRegistrant registerWithRegistry:self];
-  // Override point for customization after application.
+  // Override point for customization.
   return [super application:application didFinishLaunchingWithOptions:launchOptions];
 }
 
