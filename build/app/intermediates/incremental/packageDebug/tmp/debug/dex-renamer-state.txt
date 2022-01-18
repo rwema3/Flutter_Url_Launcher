@@ -1,0 +1,4 @@
+#Mon Jan 17 14:44:16 CAT 2022
+base.0=D\:\\xampp\\htdocs\\Flutter_Url_Launcher\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
