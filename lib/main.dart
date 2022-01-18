@@ -91,7 +91,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   onPressed: () {
                     customLaunch('tel:+250 780 845 415');
                   },
-                  child: Text('Phone num'),
+                  child: Text('Phone numb'),
                 ),
                 RaisedButton(
                   onPressed: () {
