@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Rwema',
+      title: 'Rwema-',
       theme: ThemeData(
         // This is the theme of your app
         //running your application with "flutter run". You'll see the
