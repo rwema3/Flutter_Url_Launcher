@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.white12,
       ),
-      home: MyHomePage(title: 'Url Launcher'),
+      home: MyHomePage(title: 'Url Launcher a'),
     );
   }
 }
