@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         // or simply save your changes to-"hot reload" in a Flutter IDE).
         // Notice that the counter didn't reset back to zero; the application
 
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.white12,
       ),
       home: MyHomePage(title: 'Url Launcher'),
     );
