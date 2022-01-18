@@ -38,7 +38,7 @@ class _MyHomePageState extends State<MyHomePage> {
     if (await canLaunch(command)) {
       await launch(command);
     } else {
-      print(' could n launch $command');
+      print(' could  launch $command');
     }
   }
 
