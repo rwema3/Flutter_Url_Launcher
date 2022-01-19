@@ -12,10 +12,6 @@ class MyApp extends StatelessWidget {
       title: 'Rwema-',
       theme: ThemeData(
 
-        // has a blue toolbar. Then, without quitting the app, try
-        // changing the primarySwatch below to Color.
-        // "hot reload" (press "R" in the console where you ran "flutter run"
-
         primarySwatch: Colors.blue,
       ),
       home: MyHomePage(title: 'Url Launcher app'),
