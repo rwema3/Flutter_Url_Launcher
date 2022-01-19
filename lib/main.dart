@@ -42,9 +42,6 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
-    // The Flutter framework has been optimized to make rerunning build methods
-    //fast,that you can just rebuild anything that needs updating rather
-
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
