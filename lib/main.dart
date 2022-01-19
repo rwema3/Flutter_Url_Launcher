@@ -66,19 +66,19 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Column(
-              children: <Widget>[
+              children: <Widget>[RaisedButton(
+                onPressed: () {
+                  customLaunch(
+                      'mailto:rwemadominik3@gmail.com?subject=test%20subject&body=test%20body');
+                },
+                child: Text('Email'),
+              ),
+
                 RaisedButton(
                   onPressed: () {
                     customLaunch('https://rwema.herokuapp.com/');
                   },
                   child: Text('URL'),
-                ),
-                RaisedButton(
-                  onPressed: () {
-                    customLaunch(
-                        'mailto:rwemadominik3@gmail.com?subject=test%20subject&body=test%20body');
-                  },
-                  child: Text('Email'),
                 ),
 
                 RaisedButton(
