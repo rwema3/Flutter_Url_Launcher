@@ -74,12 +74,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 child: Text('Email'),
               ),
 
-                RaisedButton(
-                  onPressed: () {
-                    customLaunch('https://rwema.herokuapp.com/');
-                  },
-                  child: Text('URL'),
-                ),
 
                 RaisedButton(
                   onPressed: () {
@@ -91,6 +85,11 @@ class _MyHomePageState extends State<MyHomePage> {
                     customLaunch('tel:+250 780 845 415');
                   },
                   child: Text('Phone number'),
+                ),RaisedButton(
+                  onPressed: () {
+                    customLaunch('https://rwema.herokuapp.com/');
+                  },
+                  child: Text('URL'),
                 ),
               ],
             )
