@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Rwema-',
       theme: ThemeData(
 
-        // application has a blue toolbar. Then, without quitting the app, try
+        // aplication has a blue toolbar. Then, without quitting the app, try
         // changing the primarySwatch below to Colors.
         // "hot reload" (press "r" in the console where you ran "flutter run"
 
