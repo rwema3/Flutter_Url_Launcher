@@ -80,17 +80,17 @@ class _MyHomePageState extends State<MyHomePage> {
                   },
                   child: Text('Email'),
                 ),
-                RaisedButton(
-                  onPressed: () {
-                    customLaunch('tel:+250 780 845 415');
-                  },
-                  child: Text('Phone number'),
-                ),
+
                 RaisedButton(
                   onPressed: () {
                     customLaunch('sms:0780845415');
                   },
                   child: Text('SMS'),
+                ),   RaisedButton(
+                  onPressed: () {
+                    customLaunch('tel:+250 780 845 415');
+                  },
+                  child: Text('Phone number'),
                 ),
               ],
             )
