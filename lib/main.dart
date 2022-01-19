@@ -35,7 +35,7 @@ class _MyHomePageState extends State<MyHomePage> {
     if (await canLaunch(command)) {
       await launch(command);
     } else {
-      print(' could not launch $command');
+      print('could not launch $command');
     }
   }
 
@@ -43,7 +43,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
     // The Flutter framework has been optimized to make rerunning build methods
-    // fast, so that you can just rebuild anything that needs updating rather
+    //fast,that you can just rebuild anything that needs updating rather
 
     return Scaffold(
       appBar: AppBar(
