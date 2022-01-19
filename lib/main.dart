@@ -43,10 +43,9 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       body: Center(
-        // Center is a layout widget. It takes a single child and positions it
-        // in the middle of the parent.
+
         child: Column(
-         // center the children vertically; the main axis here is the vertical
+         // center the children vertically; the main axis here is the
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Column(
