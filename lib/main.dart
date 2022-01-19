@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
 
         // application has a blue toolbar. Then, without quitting the app, try
-        // changing the primarySwatch below to Colors.green and then invoke
+        // changing the primarySwatch below to Colors.
         // "hot reload" (press "r" in the console where you ran "flutter run"
 
         primarySwatch: Colors.white,
