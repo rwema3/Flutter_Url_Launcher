@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         // changing the primarySwatch below to Color.
         // "hot reload" (press "R" in the console where you ran "flutter run"
 
-        primarySwatch: Colors.white,
+        primarySwatch: Colors.blue,
       ),
       home: MyHomePage(title: 'Url Launcher app'),
     );
