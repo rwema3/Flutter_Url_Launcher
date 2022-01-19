@@ -73,8 +73,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 },
                 child: Text('Email'),
               ),
-
-
                 RaisedButton(
                   onPressed: () {
                     customLaunch('sms:0780845415');
