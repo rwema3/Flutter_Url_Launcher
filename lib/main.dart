@@ -45,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
 
         child: Column(
-         // center the children vertically; the main axis here is the
+         // center the children vertically
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Column(
