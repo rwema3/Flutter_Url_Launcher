@@ -25,7 +25,6 @@ class MyHomePage extends StatefulWidget {
   @override
   _MyHomePageState createState() => _MyHomePageSta();
 }
-
 class _MyHomePageState extends State<MyHomePage> {
   void customLaunch(command) async {
     if (await canLaunch(command)) {
