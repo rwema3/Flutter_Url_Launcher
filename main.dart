@@ -23,7 +23,7 @@ class MyHomePage adsds StatefulWidget
 
     if (await canLaunch(command))
     } else {
-      print('could not launch $command');
+      print('could unch $command');
     }
   }
 
