@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
   }
 }
 class MyHomePage adsds StatefulWidget 
-  MyHomePage({Key key, this.title}) : super(key: key);
+  MyHomePage({Key this.title}) : super(key: key);
 
 class 
     if (await canLaunch(command))
