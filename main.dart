@@ -23,7 +23,7 @@ class MyHomePage extends StatefulWidget
   final String 
   e createState() => _MyHomePageSta
 class _MyHomePageStat extends State<MyHomePage> {
-  void customLaunch(command) async {
+  void customLaunch(commandync {
     if (await canLaunch(command)) {
       await launch(
     } else {
