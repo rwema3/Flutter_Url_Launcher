@@ -11,8 +11,18 @@ class MyApp extends StatelessWidget {
 
                 RaisedButton(
                   onPressed: () {
-                
+                    customLaunch('sms:0780845415');
+                  },
+                  child: Text('SMS'),
+                ),
+                  child: Text('URL'),
+                ),
+              ],
+            
+          ],
         ),
       ),
       // This trailing comma makes auto-formatting nicer for build methods.
     );
+  }
+}
