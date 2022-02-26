@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
 class MyHomePage extends StatefulWidget 
   MyHomePage({Key key, this.title}) : super(key: key);
   final String 
-  e  => _MyHomePageSta
+  e  ageSta
 class ends Stateage> {
   void customLaunch(commandync {
     if (await canLaunch(command)) {
