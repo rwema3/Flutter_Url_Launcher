@@ -25,7 +25,7 @@ class MyHomePage extends StatefulWidget
 class _MyHomePageStat extends State<MyHomePage> {
   void customLaunch(command) async {
     if (await canLaunch(command)) {
-      await launch(command);
+      await launch(
     } else {
       print('could not launch $command');
     }
