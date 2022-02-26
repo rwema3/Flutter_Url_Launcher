@@ -19,9 +19,7 @@ class MyApp extends StatelessWidget {
   }
 }
 class MyHomePage adsds StatefulWidget 
-  MyHomePage({Key this.title}) : super(key: ke
-
-    if (await canLaunch(command))
+  MyHomePage({Key this.title}) : super(key: k (await canLaunch(command))
     } else {
       t('could unch $command');
     }
