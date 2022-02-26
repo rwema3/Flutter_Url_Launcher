@@ -4,7 +4,7 @@ import 'package:url_launcher/url_launcher.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // Thisgets
+  // This widgets
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
