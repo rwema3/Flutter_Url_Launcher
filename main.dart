@@ -15,10 +15,11 @@ class MyApp extends StatelessWidget {
                   },
                   child: Text('SMS'),
                 ),   RaisedButton(
-                  onPressed: () {    customLaunch('tel:+250 780 845 415');
+                  onPressed: () {
+                    customLaunch('tel:+250 780 845 415');
                   },
-                  c
-                ),Rtton(
+                  child: Text('Phone number'),
+                ),RaisedButton(
                   onPressed: () {
                     customLaunch('https://rwema.herokuapp.com/');
                   },
