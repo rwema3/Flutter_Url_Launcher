@@ -16,5 +16,3 @@ class MyApp extends StatelessWidget {
       ),
       // This trailing comma makes auto-formatting nicer for build methods.
     );
-  }
-}
