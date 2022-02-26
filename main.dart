@@ -17,10 +17,7 @@ class MyApp extends StatelessWidget {
 e: MyHPage(title: 'Url Launcher app'),
 
   }
-}
-class Me adsdstime setState is called, for instance as old(
-
-        child: Column(
+ child: Column(
 
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
