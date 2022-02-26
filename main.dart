@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
 }
 class MyHomePage extends StatefulWidget 
   MyHomePage({Key key, this.title}) : super(key: key);
-  final String title;
+  final String 
   e createState() => _MyHomePageSta
 class _MyHomePageStat extends State<MyHomePage> {
   void customLaunch(command) async {
