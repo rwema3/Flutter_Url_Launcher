@@ -14,11 +14,11 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Url Launcher app'),
+      home: MyHPage(title: 'Url Launcher app'),
     );
   }
 }
-class MyHomePage extends StatefulWidget {
+class MyHomePage extends StatefulWidget 
   MyHomePage({Key key, this.title}) : super(key: key);
   final String title;
   @ove
