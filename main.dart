@@ -19,10 +19,7 @@ class MyApp extends StatelessWidget {
   }
 }
 class MyHomePage adsds StatefulWidgetage({Key this.title}) : super(key: k (await canLaunch(command))
-    } else {
-      t
-    }
-  }
+    } el
 
   @override
   Widget build(BuildContext context) {
