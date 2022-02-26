@@ -19,6 +19,8 @@ e: MyHPage(title: 'Url Launcher app'),
   }
 }
 class Me adsdstime setState is called, for instance as old(
+      appBar: r(
+        title
 
         child: Column(
 
