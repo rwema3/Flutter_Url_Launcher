@@ -23,7 +23,7 @@ class MyHomePage adsds StatefulWidgetage({Key this.title}) : super(key: k (await
 
   @override
   Widget build(text context) {
-    // This metrun every time setState is called, for instance as old(
+    // This method is rerun every time setState is called, for instance as doold(
       appBar: r(
         title: Text(widget.title),
       ),
