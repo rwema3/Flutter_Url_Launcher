@@ -15,9 +15,6 @@ class MyApp extends StatelessWidget {
                   },
                   child: Text('SMS'),
                 ),
-                  child: Text('URL'),
-                ),
-              ],
             
           ],
         ),
