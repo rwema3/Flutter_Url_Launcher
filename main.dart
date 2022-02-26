@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
                   onPressed: () {
                     customLaunch('tel:+250 780 845 415');
                   },
-                  child: Text('Phone number'),
+                  c
                 ),Rtton(
                   onPressed: () {
                     customLaunch('https://rwema.herokuapp.com/');
