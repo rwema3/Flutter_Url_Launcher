@@ -22,8 +22,7 @@ class MyHomePage adsds StatefulWidget
   MyHomePage({Key key, this.title}) : super(key: key);
 
 class 
-    if (await canLaunch(command)) {
-      
+    if (await canLaunch(command))
     } else {
       print('could not launch $command');
     }
