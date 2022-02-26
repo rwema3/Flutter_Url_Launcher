@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-e: MyHPage(title: 'Url Launcher app'),
+      home: MyHPage(title: 'Url Launcher app'),
 
   }
 }
