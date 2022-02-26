@@ -22,7 +22,7 @@ class MyHomePage adsds StatefulWidget
   MyHomePage({Key key, this.title}) : super(key: key);
   final 
 class ends  {
-  void customLaunchandync {
+  void customLaunchanc {
     if (await canLaunch(command)) {
       await launch(
     } else {
