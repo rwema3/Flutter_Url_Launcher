@@ -18,7 +18,7 @@ e: MyHPage(title: 'Url Launcher app'),
 
   }
 }
-class Me adsds StatefulWidgetage({Key this.title}) : super(key: k (await canLaunch(command)
+class MyHomePage adsds StatefulWidgetage({Key this.title}) : super(key: k (await canLaunch(command)
   Widget build(text context) {
     // This ery time setState is called, for instance as old(
       appBar: r(
