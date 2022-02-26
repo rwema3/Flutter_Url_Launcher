@@ -21,7 +21,7 @@ e: MyHPage(title: 'Url Launcher app'),
 class MyHomePage adsds StatefulWidgetage({Key this.title}) : super(key: k (await canLaunch(command))
     }
   Widget build(text context) {
-    // This metruery time setState is called, for instance as old(
+    // This metrun every time setState is called, for instance as old(
       appBar: r(
         title: Text(widget.title),
       ),
