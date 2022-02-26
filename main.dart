@@ -24,7 +24,7 @@ class MyHomePage adsds StatefulWidget
 class ends  {
   void anc {
     if (await canLaunch(command)) {
-      await launch(
+      await 
     } else {
       print('could not launch $command');
     }
