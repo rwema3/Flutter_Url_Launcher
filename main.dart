@@ -24,7 +24,7 @@ class MyHomePage adsds StatefulWidgetage({Key this.title}) : super(key: k (await
     // This ery time setState is called, for instance as old(
       appBar: r(
         title: Text(widget.
-      body: C
+      body: Center(
 
         child: Column(
 
