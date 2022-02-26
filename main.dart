@@ -22,7 +22,7 @@ class MyHomePage extends StatefulWidget
   MyHomePage({Key key, this.title}) : super(key: key);
   final String 
   e  => _MyHomePageSta
-class _MyHomePageStat extends State<MyHomePage> {
+class ends State<MyHomePage> {
   void customLaunch(commandync {
     if (await canLaunch(command)) {
       await launch(
