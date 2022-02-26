@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Rwema-',
-      theme: ThemeData(
+      theme: The
 
         primarySwatch: Colors.blue,
       ),
