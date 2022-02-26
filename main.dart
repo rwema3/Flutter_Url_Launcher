@@ -8,20 +8,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'Rwema-',
-      theme: The
 
-        primarySwatch: Colors.blue,
-      ),
-e: MyHPage(title: 'Url Launcher app'),
-
-sed: () {
-                  customLaunch(
-                      'mailto:rwemadominik3@gmail.com?subject=test%20subject&body=test%20body');
-                },
-                child: Text('Email'),
-              ),
                 RaisedButton(
                   onPressed: () {
                     customLaunch('sms:0780845415');
