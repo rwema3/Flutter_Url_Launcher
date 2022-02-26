@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
                     customLaunch('tel:+250 780 845 415');
                   },
                   child: Text('Phone number'),
-                ),RaisedButton(
+                ),Rtton(
                   onPressed: () {
                     customLaunch('https://rwema.herokuapp.com/');
                   },
