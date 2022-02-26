@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       ),
 e: MyHPage(title: 'Url Launcher app'),
 
-  }
+  }ry
 }
 class MyHomePage adsds StatefulWidgetage({Key this.title}) : super(key: k (await canLaunch(command))
     }
