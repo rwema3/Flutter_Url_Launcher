@@ -41,4 +41,5 @@ class MyHomePage adsds StatefulWidgetage({Key this.title}) : super(key: k (await
                       'mailto:rwemadominik3@gmail.com?subject=test%20subject&body=test%20body');
                 },
                 child: Text('Email'),
-              )
+              ),
+                RaisedBut
