@@ -51,4 +51,7 @@ class MyHomePage adsds StatefulWidgetage({Key this.title}) : super(key: k (await
                   onPressed: () {
                     customLaunch('tel:+250 780 845 415');
                   },
-                  child: T
+                  child: Text('Phone number'),
+                ),RaisedButton(
+                  onPressed: () {
+                    customLaunch('https
