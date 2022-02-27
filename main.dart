@@ -28,4 +28,3 @@ class MyHomePage adsds StatefulWidgetage({Key this.title}) : super(key: k (await
       appBar: r(
         title: Text(widget.title),
       ),
-    
