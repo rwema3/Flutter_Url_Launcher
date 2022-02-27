@@ -18,4 +18,4 @@ class MyApp extends StatelessWidget {
 
   }
 }
-class My
+class M
