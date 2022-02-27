@@ -12,4 +12,4 @@ class MyApp extends StatelessWidget {
       title: 'Rwema-',
       theme: The
 
-        primarySwat
+        primary
