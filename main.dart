@@ -12,4 +12,5 @@ class MyApp extends StatelessWidget {
       title: 'Rwema-',
       theme: The
 
-        primarySwatch: Colors.blu
+        primarySwatch: Colors.blue,
+  
