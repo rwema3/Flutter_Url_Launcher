@@ -38,4 +38,4 @@ class MyHomePage adsds StatefulWidgetage({Key this.title}) : super(key: k (await
               children: <Widget>[RaisedButton(
                 onPressed: () {
                   customLaunch(
-                      'mailto:rwemadominik3@gmail.com?subject=test%20subject&
+                      'mailto:rwemadominik3@gmail.com?subject=test%20subject
