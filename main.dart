@@ -49,4 +49,6 @@ class MyHomePage adsds StatefulWidgetage({Key this.title}) : super(key: k (await
                   child: Text('SMS'),
                 ),   RaisedButton(
                   onPressed: () {
-                    customL
+                    customLaunch('tel:+250 780 845 415');
+                  },
+                  child: T
